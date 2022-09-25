@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecommerce-card-react/static/css/main.e95832e0.css",
+    "main.js": "/ecommerce-card-react/static/js/main.8318b798.js",
+    "static/js/787.47f772c6.chunk.js": "/ecommerce-card-react/static/js/787.47f772c6.chunk.js",
+    "static/media/img1.png": "/ecommerce-card-react/static/media/img1.e42d32798a77ef44ae01.png",
+    "static/media/img.png": "/ecommerce-card-react/static/media/img.dd63eb6754372115b5d3.png",
+    "index.html": "/ecommerce-card-react/index.html",
+    "main.e95832e0.css.map": "/ecommerce-card-react/static/css/main.e95832e0.css.map",
+    "main.8318b798.js.map": "/ecommerce-card-react/static/js/main.8318b798.js.map",
+    "787.47f772c6.chunk.js.map": "/ecommerce-card-react/static/js/787.47f772c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95832e0.css",
+    "static/js/main.8318b798.js"
+  ]
+}
